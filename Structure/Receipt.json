@@ -1,0 +1,7475 @@
+[{
+  "_id": {
+    "$oid": "600b526d079e06c8640a14b3"
+  },
+  "ReceiptID": 43668,
+  "OrderDate": {
+    "$date": "2011-05-30T23:00:00Z"
+  },
+  "Store": 592,
+  "StoreName": "Retail Mall",
+  "Customer": {
+    "CustomerKey": 29614,
+    "FirstName": "Matthew",
+    "MiddleName": "A",
+    "LastName": "Williams",
+    "Gender": "M",
+    "Email": "matthew8@adventure-works.com",
+    "AddressLine1": "2681 Eagle Peak",
+    "AddressLine2": "NULL",
+    "Phone": "524-555-0161",
+    "DateFirstPurchase": {
+      "$date": "2013-03-24T00:00:00Z"
+    }
+  },
+  "Products": [
+    {
+      "ID": 756,
+      "Name": "Road-450 Red. 44",
+      "Number": "Road-450 Red. 44",
+      "Color": "Red",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2624.382"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 753,
+      "Name": "Road-150 Red. 56",
+      "Number": "Road-150 Red. 56",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "3578.27"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2146.962"
+      },
+      "LineTotal": {
+        "$numberDecimal": "4293.924"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 760,
+      "Name": "Road-650 Red. 60",
+      "Number": "Road-650 Red. 60",
+      "Color": "Red",
+      "Quantity": 7,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2936.2123"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 765,
+      "Name": "Road-650 Black. 58",
+      "Number": "Road-650 Black. 58",
+      "Color": "Black",
+      "Quantity": 6,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2516.7534"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 715,
+      "Name": "Long-Sleeve Logo Jersey. L",
+      "Number": "Long-Sleeve Logo Jersey. L",
+      "Color": "Multi",
+      "Quantity": 6,
+      "Price": {
+        "$numberDecimal": "49.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "28.8404"
+      },
+      "LineTotal": {
+        "$numberDecimal": "173.0424"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 730,
+      "Name": "LL Road Frame - Red. 62",
+      "Number": "LL Road Frame - Red. 62",
+      "Color": "Red",
+      "Quantity": 6,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "183.9382"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1103.6292"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 707,
+      "Name": "Sport-100 Helmet. Red",
+      "Number": "Sport-100 Helmet. Red",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "34.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "20.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "40.373"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 711,
+      "Name": "Sport-100 Helmet. Blue",
+      "Number": "Sport-100 Helmet. Blue",
+      "Color": "Blue",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "34.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "20.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "40.373"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 754,
+      "Name": "Road-450 Red. 58",
+      "Number": "Road-450 Red. 58",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1749.588"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 712,
+      "Name": "AWC Logo Cap",
+      "Number": "AWC Logo Cap",
+      "Color": "Multi",
+      "Quantity": 4,
+      "Price": {
+        "$numberDecimal": "8.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "5.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "20.746"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 729,
+      "Name": "LL Road Frame - Red. 60",
+      "Number": "LL Road Frame - Red. 60",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "183.9382"
+      },
+      "LineTotal": {
+        "$numberDecimal": "367.8764"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 755,
+      "Name": "Road-450 Red. 60",
+      "Number": "Road-450 Red. 60",
+      "Color": "Red",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2624.382"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 761,
+      "Name": "Road-650 Red. 62",
+      "Number": "Road-650 Red. 62",
+      "Color": "Red",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1258.3767"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 770,
+      "Name": "Road-650 Black. 52",
+      "Number": "Road-650 Black. 52",
+      "Color": "Black",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "838.9178"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 726,
+      "Name": "LL Road Frame - Red. 48",
+      "Number": "LL Road Frame - Red. 48",
+      "Color": "Red",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "183.9382"
+      },
+      "LineTotal": {
+        "$numberDecimal": "551.8146"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 764,
+      "Name": "Road-650 Red. 52",
+      "Number": "Road-650 Red. 52",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "838.9178"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 766,
+      "Name": "Road-650 Black. 60",
+      "Number": "Road-650 Black. 60",
+      "Color": "Black",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "838.9178"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 725,
+      "Name": "LL Road Frame - Red. 44",
+      "Number": "LL Road Frame - Red. 44",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "183.9382"
+      },
+      "LineTotal": {
+        "$numberDecimal": "367.8764"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 716,
+      "Name": "Long-Sleeve Logo Jersey. XL",
+      "Number": "Long-Sleeve Logo Jersey. XL",
+      "Color": "Multi",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "49.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "28.8404"
+      },
+      "LineTotal": {
+        "$numberDecimal": "28.8404"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 768,
+      "Name": "Road-650 Black. 44",
+      "Number": "Road-650 Black. 44",
+      "Color": "Black",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "838.9178"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 732,
+      "Name": "ML Road Frame - Red. 48",
+      "Number": "ML Road Frame - Red. 48",
+      "Color": "Red",
+      "Quantity": 4,
+      "Price": {
+        "$numberDecimal": "594.83"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "356.898"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1427.592"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 758,
+      "Name": "Road-450 Red. 52",
+      "Number": "Road-450 Red. 52",
+      "Color": "Red",
+      "Quantity": 6,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "5248.764"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 762,
+      "Name": "Road-650 Red. 44",
+      "Number": "Road-650 Red. 44",
+      "Color": "Red",
+      "Quantity": 4,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1677.8356"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 738,
+      "Name": "LL Road Frame - Black. 52",
+      "Number": "LL Road Frame - Black. 52",
+      "Color": "Black",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "178.5808"
+      },
+      "LineTotal": {
+        "$numberDecimal": "535.7424"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 714,
+      "Name": "Long-Sleeve Logo Jersey. M",
+      "Number": "Long-Sleeve Logo Jersey. M",
+      "Color": "Multi",
+      "Quantity": 4,
+      "Price": {
+        "$numberDecimal": "49.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "28.8404"
+      },
+      "LineTotal": {
+        "$numberDecimal": "115.3616"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 722,
+      "Name": "LL Road Frame - Black. 58",
+      "Number": "LL Road Frame - Black. 58",
+      "Color": "Black",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "178.5808"
+      },
+      "LineTotal": {
+        "$numberDecimal": "535.7424"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 708,
+      "Name": "Sport-100 Helmet. Black",
+      "Number": "Sport-100 Helmet. Black",
+      "Color": "Black",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "34.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "20.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "20.1865"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 733,
+      "Name": "ML Road Frame - Red. 52",
+      "Number": "ML Road Frame - Red. 52",
+      "Color": "Red",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "594.83"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "356.898"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1070.694"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 763,
+      "Name": "Road-650 Red. 48",
+      "Number": "Road-650 Red. 48",
+      "Color": "Red",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1258.3767"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    }
+  ],
+  "Currency": {
+    "_id": {
+      "$oid": "600a42a4e0b28c8698210a18"
+    },
+    "CurrencyRateID": 4,
+    "CurrencyRateDate": {
+      "$date": "2011-05-30T23:00:00Z"
+    },
+    "FromCurrencyCode": "USD",
+    "ToCurrencyCode": "CAD",
+    "RateVal": {
+      "$numberDecimal": "1.4683"
+    }
+  },
+  "TaxAmt": {
+    "$numberDecimal": "3461.7654"
+  },
+  "SubTotal": {
+    "$numberDecimal": "35944.1562"
+  }
+},{
+  "_id": {
+    "$oid": "600b526d079e06c8640a14b4"
+  },
+  "ReceiptID": 43898,
+  "OrderDate": {
+    "$date": "2011-06-30T23:00:00Z"
+  },
+  "Store": 794,
+  "StoreName": "Rewarding Activities Company",
+  "Customer": {
+    "CustomerKey": 29705,
+    "FirstName": "Arianna",
+    "MiddleName": "H",
+    "LastName": "Simmons",
+    "Gender": "F",
+    "Email": "arianna13@adventure-works.com",
+    "AddressLine1": "24 San Vincente Drive",
+    "AddressLine2": "NULL",
+    "Phone": "581-555-0195",
+    "DateFirstPurchase": {
+      "$date": "2011-06-29T00:00:00Z"
+    }
+  },
+  "Products": [
+    {
+      "ID": 770,
+      "Name": "Road-650 Black. 52",
+      "Number": "Road-650 Black. 52",
+      "Color": "Black",
+      "Quantity": 13,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "405.477"
+      },
+      "LineTotal": {
+        "$numberDecimal": "5165.77698"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 768,
+      "Name": "Road-650 Black. 44",
+      "Number": "Road-650 Black. 44",
+      "Color": "Black",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1258.3767"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 755,
+      "Name": "Road-450 Red. 60",
+      "Number": "Road-450 Red. 60",
+      "Color": "Red",
+      "Quantity": 4,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "3499.176"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 716,
+      "Name": "Long-Sleeve Logo Jersey. XL",
+      "Number": "Long-Sleeve Logo Jersey. XL",
+      "Color": "Multi",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "49.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "28.8404"
+      },
+      "LineTotal": {
+        "$numberDecimal": "57.6808"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 712,
+      "Name": "AWC Logo Cap",
+      "Number": "AWC Logo Cap",
+      "Color": "Multi",
+      "Quantity": 7,
+      "Price": {
+        "$numberDecimal": "8.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "5.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "36.3055"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 754,
+      "Name": "Road-450 Red. 58",
+      "Number": "Road-450 Red. 58",
+      "Color": "Red",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "874.794"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 707,
+      "Name": "Sport-100 Helmet. Red",
+      "Number": "Sport-100 Helmet. Red",
+      "Color": "Red",
+      "Quantity": 5,
+      "Price": {
+        "$numberDecimal": "34.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "20.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "100.9325"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 725,
+      "Name": "LL Road Frame - Red. 44",
+      "Number": "LL Road Frame - Red. 44",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "183.9382"
+      },
+      "LineTotal": {
+        "$numberDecimal": "367.8764"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 711,
+      "Name": "Sport-100 Helmet. Blue",
+      "Number": "Sport-100 Helmet. Blue",
+      "Color": "Blue",
+      "Quantity": 6,
+      "Price": {
+        "$numberDecimal": "34.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "20.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "121.119"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 753,
+      "Name": "Road-150 Red. 56",
+      "Number": "Road-150 Red. 56",
+      "Color": "Red",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "3578.27"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2146.962"
+      },
+      "LineTotal": {
+        "$numberDecimal": "6440.886"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 708,
+      "Name": "Sport-100 Helmet. Black",
+      "Number": "Sport-100 Helmet. Black",
+      "Color": "Black",
+      "Quantity": 8,
+      "Price": {
+        "$numberDecimal": "34.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "20.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "161.492"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 760,
+      "Name": "Road-650 Red. 60",
+      "Number": "Road-650 Red. 60",
+      "Color": "Red",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1258.3767"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 715,
+      "Name": "Long-Sleeve Logo Jersey. L",
+      "Number": "Long-Sleeve Logo Jersey. L",
+      "Color": "Multi",
+      "Quantity": 11,
+      "Price": {
+        "$numberDecimal": "49.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "27.879"
+      },
+      "LineTotal": {
+        "$numberDecimal": "300.53562"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 764,
+      "Name": "Road-650 Red. 52",
+      "Number": "Road-650 Red. 52",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "838.9178"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 729,
+      "Name": "LL Road Frame - Red. 60",
+      "Number": "LL Road Frame - Red. 60",
+      "Color": "Red",
+      "Quantity": 4,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "183.9382"
+      },
+      "LineTotal": {
+        "$numberDecimal": "735.7528"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 732,
+      "Name": "ML Road Frame - Red. 48",
+      "Number": "ML Road Frame - Red. 48",
+      "Color": "Red",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "594.83"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "356.898"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1070.694"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 756,
+      "Name": "Road-450 Red. 44",
+      "Number": "Road-450 Red. 44",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1749.588"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 758,
+      "Name": "Road-450 Red. 52",
+      "Number": "Road-450 Red. 52",
+      "Color": "Red",
+      "Quantity": 10,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "8747.94"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 714,
+      "Name": "Long-Sleeve Logo Jersey. M",
+      "Number": "Long-Sleeve Logo Jersey. M",
+      "Color": "Multi",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "49.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "28.8404"
+      },
+      "LineTotal": {
+        "$numberDecimal": "86.5212"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 765,
+      "Name": "Road-650 Black. 58",
+      "Number": "Road-650 Black. 58",
+      "Color": "Black",
+      "Quantity": 8,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "3355.6712"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 738,
+      "Name": "LL Road Frame - Black. 52",
+      "Number": "LL Road Frame - Black. 52",
+      "Color": "Black",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "178.5808"
+      },
+      "LineTotal": {
+        "$numberDecimal": "357.1616"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 726,
+      "Name": "LL Road Frame - Red. 48",
+      "Number": "LL Road Frame - Red. 48",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "183.9382"
+      },
+      "LineTotal": {
+        "$numberDecimal": "367.8764"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 762,
+      "Name": "Road-650 Red. 44",
+      "Number": "Road-650 Red. 44",
+      "Color": "Red",
+      "Quantity": 7,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2936.2123"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 761,
+      "Name": "Road-650 Red. 62",
+      "Number": "Road-650 Red. 62",
+      "Color": "Red",
+      "Quantity": 5,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2097.2945"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 722,
+      "Name": "LL Road Frame - Black. 58",
+      "Number": "LL Road Frame - Black. 58",
+      "Color": "Black",
+      "Quantity": 5,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "178.5808"
+      },
+      "LineTotal": {
+        "$numberDecimal": "892.904"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 749,
+      "Name": "Road-150 Red. 62",
+      "Number": "Road-150 Red. 62",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "3578.27"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2146.962"
+      },
+      "LineTotal": {
+        "$numberDecimal": "4293.924"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 763,
+      "Name": "Road-650 Red. 48",
+      "Number": "Road-650 Red. 48",
+      "Color": "Red",
+      "Quantity": 6,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2516.7534"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 766,
+      "Name": "Road-650 Black. 60",
+      "Number": "Road-650 Black. 60",
+      "Color": "Black",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1258.3767"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    }
+  ],
+  "Currency": {
+    "_id": {
+      "$oid": "600a42a4e0b28c8698210bab"
+    },
+    "CurrencyRateID": 407,
+    "CurrencyRateDate": {
+      "$date": "2011-06-30T23:00:00Z"
+    },
+    "FromCurrencyCode": "USD",
+    "ToCurrencyCode": "CAD",
+    "RateVal": {
+      "$numberDecimal": "1.4773"
+    }
+  },
+  "TaxAmt": {
+    "$numberDecimal": "4908.5808"
+  },
+  "SubTotal": {
+    "$numberDecimal": "50948.9161"
+  }
+},{
+  "_id": {
+    "$oid": "600b526d079e06c8640a14b5"
+  },
+  "ReceiptID": 44094,
+  "OrderDate": {
+    "$date": "2011-07-31T23:00:00Z"
+  },
+  "Store": 806,
+  "StoreName": "Certified Sports Supply",
+  "Customer": {
+    "CustomerKey": 29711,
+    "FirstName": "Megan",
+    "MiddleName": "NULL",
+    "LastName": "Miller",
+    "Gender": "F",
+    "Email": "megan9@adventure-works.com",
+    "AddressLine1": "9911 Northgate Road",
+    "AddressLine2": "NULL",
+    "Phone": "828-555-0199",
+    "DateFirstPurchase": {
+      "$date": "2013-12-16T00:00:00Z"
+    }
+  },
+  "Products": [
+    {
+      "ID": 771,
+      "Name": "Mountain-100 Silver. 38",
+      "Number": "Mountain-100 Silver. 38",
+      "Color": "Silver",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "3399.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2039.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "4079.988"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    }
+  ],
+  "Currency": {
+    "_id": {
+      "$oid": "600a42a4e0b28c8698210d3e"
+    },
+    "CurrencyRateID": 810,
+    "CurrencyRateDate": {
+      "$date": "2011-07-31T23:00:00Z"
+    },
+    "FromCurrencyCode": "USD",
+    "ToCurrencyCode": "CAD",
+    "RateVal": {
+      "$numberDecimal": "1.4515"
+    }
+  },
+  "TaxAmt": {
+    "$numberDecimal": "391.6788"
+  },
+  "SubTotal": {
+    "$numberDecimal": "4079.988"
+  }
+},{
+  "_id": {
+    "$oid": "600b526e079e06c8640a14b6"
+  },
+  "ReceiptID": 43844,
+  "OrderDate": {
+    "$date": "2011-06-30T23:00:00Z"
+  },
+  "Store": 608,
+  "StoreName": "Two-Wheeled Transit Company",
+  "Customer": {
+    "CustomerKey": 29620,
+    "FirstName": "Andrew",
+    "MiddleName": "B",
+    "LastName": "Taylor",
+    "Gender": "M",
+    "Email": "andrew18@adventure-works.com",
+    "AddressLine1": "9863 Ridge Place",
+    "AddressLine2": "NULL",
+    "Phone": "601-555-0139",
+    "DateFirstPurchase": {
+      "$date": "2013-03-23T00:00:00Z"
+    }
+  },
+  "Products": [
+    {
+      "ID": 775,
+      "Name": "Mountain-100 Black. 38",
+      "Number": "Mountain-100 Black. 38",
+      "Color": "Black",
+      "Quantity": 4,
+      "Price": {
+        "$numberDecimal": "3374.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2024.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "8099.976"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 776,
+      "Name": "Mountain-100 Black. 42",
+      "Number": "Mountain-100 Black. 42",
+      "Color": "Black",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "3374.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2024.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "4049.988"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 777,
+      "Name": "Mountain-100 Black. 44",
+      "Number": "Mountain-100 Black. 44",
+      "Color": "Black",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "3374.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2024.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "6074.982"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 778,
+      "Name": "Mountain-100 Black. 48",
+      "Number": "Mountain-100 Black. 48",
+      "Color": "Black",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "3374.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2024.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2024.994"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    }
+  ],
+  "Currency": {
+    "_id": {
+      "$oid": "600a42a4e0b28c8698210bab"
+    },
+    "CurrencyRateID": 407,
+    "CurrencyRateDate": {
+      "$date": "2011-06-30T23:00:00Z"
+    },
+    "FromCurrencyCode": "USD",
+    "ToCurrencyCode": "CAD",
+    "RateVal": {
+      "$numberDecimal": "1.4773"
+    }
+  },
+  "TaxAmt": {
+    "$numberDecimal": "1943.9942"
+  },
+  "SubTotal": {
+    "$numberDecimal": "20249.94"
+  }
+},{
+  "_id": {
+    "$oid": "600b526e079e06c8640a14b7"
+  },
+  "ReceiptID": 44085,
+  "OrderDate": {
+    "$date": "2011-07-31T23:00:00Z"
+  },
+  "Store": 648,
+  "StoreName": "Corner Bicycle Supply",
+  "Customer": {
+    "CustomerKey": 29639,
+    "FirstName": "Andrew",
+    "MiddleName": "C",
+    "LastName": "Thomas",
+    "Gender": "M",
+    "Email": "andrew20@adventure-works.com",
+    "AddressLine1": "4310 Kenston Dr.",
+    "AddressLine2": "NULL",
+    "Phone": "188-555-0113",
+    "DateFirstPurchase": {
+      "$date": "2011-06-07T00:00:00Z"
+    }
+  },
+  "Products": [
+    {
+      "ID": 762,
+      "Name": "Road-650 Red. 44",
+      "Number": "Road-650 Red. 44",
+      "Color": "Red",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "419.4589"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 754,
+      "Name": "Road-450 Red. 58",
+      "Number": "Road-450 Red. 58",
+      "Color": "Red",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2624.382"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 716,
+      "Name": "Long-Sleeve Logo Jersey. XL",
+      "Number": "Long-Sleeve Logo Jersey. XL",
+      "Color": "Multi",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "49.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "28.8404"
+      },
+      "LineTotal": {
+        "$numberDecimal": "57.6808"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 761,
+      "Name": "Road-650 Red. 62",
+      "Number": "Road-650 Red. 62",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "838.9178"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 712,
+      "Name": "AWC Logo Cap",
+      "Number": "AWC Logo Cap",
+      "Color": "Multi",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "8.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "5.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "10.373"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 725,
+      "Name": "LL Road Frame - Red. 44",
+      "Number": "LL Road Frame - Red. 44",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "183.9382"
+      },
+      "LineTotal": {
+        "$numberDecimal": "367.8764"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 708,
+      "Name": "Sport-100 Helmet. Black",
+      "Number": "Sport-100 Helmet. Black",
+      "Color": "Black",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "34.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "20.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "60.5595"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 753,
+      "Name": "Road-150 Red. 56",
+      "Number": "Road-150 Red. 56",
+      "Color": "Red",
+      "Quantity": 4,
+      "Price": {
+        "$numberDecimal": "3578.27"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2146.962"
+      },
+      "LineTotal": {
+        "$numberDecimal": "8587.848"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 729,
+      "Name": "LL Road Frame - Red. 60",
+      "Number": "LL Road Frame - Red. 60",
+      "Color": "Red",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "183.9382"
+      },
+      "LineTotal": {
+        "$numberDecimal": "551.8146"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 763,
+      "Name": "Road-650 Red. 48",
+      "Number": "Road-650 Red. 48",
+      "Color": "Red",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1258.3767"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 738,
+      "Name": "LL Road Frame - Black. 52",
+      "Number": "LL Road Frame - Black. 52",
+      "Color": "Black",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "178.5808"
+      },
+      "LineTotal": {
+        "$numberDecimal": "178.5808"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 732,
+      "Name": "ML Road Frame - Red. 48",
+      "Number": "ML Road Frame - Red. 48",
+      "Color": "Red",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "594.83"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "356.898"
+      },
+      "LineTotal": {
+        "$numberDecimal": "356.898"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 715,
+      "Name": "Long-Sleeve Logo Jersey. L",
+      "Number": "Long-Sleeve Logo Jersey. L",
+      "Color": "Multi",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "49.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "28.8404"
+      },
+      "LineTotal": {
+        "$numberDecimal": "28.8404"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 760,
+      "Name": "Road-650 Red. 60",
+      "Number": "Road-650 Red. 60",
+      "Color": "Red",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1258.3767"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 766,
+      "Name": "Road-650 Black. 60",
+      "Number": "Road-650 Black. 60",
+      "Color": "Black",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "419.4589"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 711,
+      "Name": "Sport-100 Helmet. Blue",
+      "Number": "Sport-100 Helmet. Blue",
+      "Color": "Blue",
+      "Quantity": 4,
+      "Price": {
+        "$numberDecimal": "34.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "20.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "80.746"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 758,
+      "Name": "Road-450 Red. 52",
+      "Number": "Road-450 Red. 52",
+      "Color": "Red",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "874.794"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 707,
+      "Name": "Sport-100 Helmet. Red",
+      "Number": "Sport-100 Helmet. Red",
+      "Color": "Red",
+      "Quantity": 4,
+      "Price": {
+        "$numberDecimal": "34.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "20.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "80.746"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 768,
+      "Name": "Road-650 Black. 44",
+      "Number": "Road-650 Black. 44",
+      "Color": "Black",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "419.4589"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 770,
+      "Name": "Road-650 Black. 52",
+      "Number": "Road-650 Black. 52",
+      "Color": "Black",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "419.4589"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 755,
+      "Name": "Road-450 Red. 60",
+      "Number": "Road-450 Red. 60",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1749.588"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    }
+  ],
+  "Currency": {
+    "_id": {
+      "$oid": "600a42a4e0b28c8698210d3e"
+    },
+    "CurrencyRateID": 810,
+    "CurrencyRateDate": {
+      "$date": "2011-07-31T23:00:00Z"
+    },
+    "FromCurrencyCode": "USD",
+    "ToCurrencyCode": "CAD",
+    "RateVal": {
+      "$numberDecimal": "1.4515"
+    }
+  },
+  "TaxAmt": {
+    "$numberDecimal": "1981.2698"
+  },
+  "SubTotal": {
+    "$numberDecimal": "20644.2343"
+  }
+},{
+  "_id": {
+    "$oid": "600b526e079e06c8640a14b8"
+  },
+  "ReceiptID": 43890,
+  "OrderDate": {
+    "$date": "2011-06-30T23:00:00Z"
+  },
+  "Store": 356,
+  "StoreName": "Serious Cycles",
+  "Customer": {
+    "CustomerKey": 29515,
+    "FirstName": "Felicia",
+    "MiddleName": "C",
+    "LastName": "Moyer",
+    "Gender": "F",
+    "Email": "felicia9@adventure-works.com",
+    "AddressLine1": "4637 Lakeside Court",
+    "AddressLine2": "NULL",
+    "Phone": "1 (11) 500 555-0116",
+    "DateFirstPurchase": {
+      "$date": "2013-04-08T00:00:00Z"
+    }
+  },
+  "Products": [
+    {
+      "ID": 771,
+      "Name": "Mountain-100 Silver. 38",
+      "Number": "Mountain-100 Silver. 38",
+      "Color": "Silver",
+      "Quantity": 5,
+      "Price": {
+        "$numberDecimal": "3399.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2039.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "10199.97"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 777,
+      "Name": "Mountain-100 Black. 44",
+      "Number": "Mountain-100 Black. 44",
+      "Color": "Black",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "3374.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2024.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "4049.988"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 773,
+      "Name": "Mountain-100 Silver. 44",
+      "Number": "Mountain-100 Silver. 44",
+      "Color": "Silver",
+      "Quantity": 7,
+      "Price": {
+        "$numberDecimal": "3399.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2039.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "14279.958"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 774,
+      "Name": "Mountain-100 Silver. 48",
+      "Number": "Mountain-100 Silver. 48",
+      "Color": "Silver",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "3399.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2039.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "4079.988"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 742,
+      "Name": "HL Mountain Frame - Silver. 46",
+      "Number": "HL Mountain Frame - Silver. 46",
+      "Color": "Silver",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "1364.50"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "722.5949"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2167.7847"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 772,
+      "Name": "Mountain-100 Silver. 42",
+      "Number": "Mountain-100 Silver. 42",
+      "Color": "Silver",
+      "Quantity": 5,
+      "Price": {
+        "$numberDecimal": "3399.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2039.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "10199.97"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 776,
+      "Name": "Mountain-100 Black. 42",
+      "Number": "Mountain-100 Black. 42",
+      "Color": "Black",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "3374.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2024.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "4049.988"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 748,
+      "Name": "HL Mountain Frame - Silver. 38",
+      "Number": "HL Mountain Frame - Silver. 38",
+      "Color": "Silver",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "1364.50"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "722.5949"
+      },
+      "LineTotal": {
+        "$numberDecimal": "722.5949"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 747,
+      "Name": "HL Mountain Frame - Black. 38",
+      "Number": "HL Mountain Frame - Black. 38",
+      "Color": "Black",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "1349.60"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "714.7043"
+      },
+      "LineTotal": {
+        "$numberDecimal": "714.7043"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 775,
+      "Name": "Mountain-100 Black. 38",
+      "Number": "Mountain-100 Black. 38",
+      "Color": "Black",
+      "Quantity": 8,
+      "Price": {
+        "$numberDecimal": "3374.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2024.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "16199.952"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 709,
+      "Name": "Mountain Bike Socks. M",
+      "Number": "Mountain Bike Socks. M",
+      "Color": "White",
+      "Quantity": 4,
+      "Price": {
+        "$numberDecimal": "9.50"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "5.7"
+      },
+      "LineTotal": {
+        "$numberDecimal": "22.8"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 778,
+      "Name": "Mountain-100 Black. 48",
+      "Number": "Mountain-100 Black. 48",
+      "Color": "Black",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "3374.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2024.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "6074.982"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 745,
+      "Name": "HL Mountain Frame - Black. 48",
+      "Number": "HL Mountain Frame - Black. 48",
+      "Color": "Black",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "1349.60"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "809.76"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2429.28"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    }
+  ],
+  "Currency": {
+    "_id": {
+      "$oid": "600a42a4e0b28c8698210bab"
+    },
+    "CurrencyRateID": 407,
+    "CurrencyRateDate": {
+      "$date": "2011-06-30T23:00:00Z"
+    },
+    "FromCurrencyCode": "USD",
+    "ToCurrencyCode": "CAD",
+    "RateVal": {
+      "$numberDecimal": "1.4773"
+    }
+  },
+  "TaxAmt": {
+    "$numberDecimal": "7234.307"
+  },
+  "SubTotal": {
+    "$numberDecimal": "75191.9599"
+  }
+},{
+  "_id": {
+    "$oid": "600b526e079e06c8640a14b9"
+  },
+  "ReceiptID": 43853,
+  "OrderDate": {
+    "$date": "2011-06-30T23:00:00Z"
+  },
+  "Store": 1022,
+  "StoreName": "Sharp Bikes",
+  "Customer": {
+    "CustomerKey": 29813,
+    "FirstName": "Candice",
+    "MiddleName": "NULL",
+    "LastName": "She",
+    "Gender": "F",
+    "Email": "candice7@adventure-works.com",
+    "AddressLine1": "7077 Blue Jay Drive",
+    "AddressLine2": "NULL",
+    "Phone": "1 (11) 500 555-0145",
+    "DateFirstPurchase": {
+      "$date": "2013-04-24T00:00:00Z"
+    }
+  },
+  "Products": [
+    {
+      "ID": 777,
+      "Name": "Mountain-100 Black. 44",
+      "Number": "Mountain-100 Black. 44",
+      "Color": "Black",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "3374.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2024.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "4049.988"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 773,
+      "Name": "Mountain-100 Silver. 44",
+      "Number": "Mountain-100 Silver. 44",
+      "Color": "Silver",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "3399.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2039.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2039.994"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 771,
+      "Name": "Mountain-100 Silver. 38",
+      "Number": "Mountain-100 Silver. 38",
+      "Color": "Silver",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "3399.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2039.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2039.994"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 776,
+      "Name": "Mountain-100 Black. 42",
+      "Number": "Mountain-100 Black. 42",
+      "Color": "Black",
+      "Quantity": 4,
+      "Price": {
+        "$numberDecimal": "3374.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2024.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "8099.976"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 775,
+      "Name": "Mountain-100 Black. 38",
+      "Number": "Mountain-100 Black. 38",
+      "Color": "Black",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "3374.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2024.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "4049.988"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 778,
+      "Name": "Mountain-100 Black. 48",
+      "Number": "Mountain-100 Black. 48",
+      "Color": "Black",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "3374.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2024.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "6074.982"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    }
+  ],
+  "Currency": {
+    "_id": {
+      "$oid": "600a42a4e0b28c8698210bab"
+    },
+    "CurrencyRateID": 407,
+    "CurrencyRateDate": {
+      "$date": "2011-06-30T23:00:00Z"
+    },
+    "FromCurrencyCode": "USD",
+    "ToCurrencyCode": "CAD",
+    "RateVal": {
+      "$numberDecimal": "1.4773"
+    }
+  },
+  "TaxAmt": {
+    "$numberDecimal": "2530.0725"
+  },
+  "SubTotal": {
+    "$numberDecimal": "26354.922"
+  }
+},{
+  "_id": {
+    "$oid": "600b526e079e06c8640a14ba"
+  },
+  "ReceiptID": 44084,
+  "OrderDate": {
+    "$date": "2011-07-31T23:00:00Z"
+  },
+  "Store": 312,
+  "StoreName": "Vinyl and Plastic Goods Corporation",
+  "Customer": {
+    "CustomerKey": 29494,
+    "FirstName": "Micah",
+    "MiddleName": "NULL",
+    "LastName": "Cai",
+    "Gender": "M",
+    "Email": "micah9@adventure-works.com",
+    "AddressLine1": "8128 Kane Circle",
+    "AddressLine2": "NULL",
+    "Phone": "462-555-0111",
+    "DateFirstPurchase": {
+      "$date": "2011-06-19T00:00:00Z"
+    }
+  },
+  "Products": [
+    {
+      "ID": 778,
+      "Name": "Mountain-100 Black. 48",
+      "Number": "Mountain-100 Black. 48",
+      "Color": "Black",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "3374.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2024.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "4049.988"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 772,
+      "Name": "Mountain-100 Silver. 42",
+      "Number": "Mountain-100 Silver. 42",
+      "Color": "Silver",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "3399.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2039.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "4079.988"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    }
+  ],
+  "Currency": {
+    "_id": {
+      "$oid": "600a42a4e0b28c8698210d3e"
+    },
+    "CurrencyRateID": 810,
+    "CurrencyRateDate": {
+      "$date": "2011-07-31T23:00:00Z"
+    },
+    "FromCurrencyCode": "USD",
+    "ToCurrencyCode": "CAD",
+    "RateVal": {
+      "$numberDecimal": "1.4515"
+    }
+  },
+  "TaxAmt": {
+    "$numberDecimal": "780.4777"
+  },
+  "SubTotal": {
+    "$numberDecimal": "8129.976"
+  }
+},{
+  "_id": {
+    "$oid": "600b526f079e06c8640a14bb"
+  },
+  "ReceiptID": 43856,
+  "OrderDate": {
+    "$date": "2011-06-30T23:00:00Z"
+  },
+  "Store": 738,
+  "StoreName": "Sixth Bike Store",
+  "Customer": {
+    "CustomerKey": 29680,
+    "FirstName": "Anna",
+    "MiddleName": "A",
+    "LastName": "Jones",
+    "Gender": "F",
+    "Email": "anna64@adventure-works.com",
+    "AddressLine1": "1005 Matterhorn Ct.",
+    "AddressLine2": "NULL",
+    "Phone": "679-555-0115",
+    "DateFirstPurchase": {
+      "$date": "2013-04-24T00:00:00Z"
+    }
+  },
+  "Products": [
+    {
+      "ID": 709,
+      "Name": "Mountain Bike Socks. M",
+      "Number": "Mountain Bike Socks. M",
+      "Color": "White",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "9.50"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "5.7"
+      },
+      "LineTotal": {
+        "$numberDecimal": "11.4"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 777,
+      "Name": "Mountain-100 Black. 44",
+      "Number": "Mountain-100 Black. 44",
+      "Color": "Black",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "3374.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2024.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2024.994"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    }
+  ],
+  "Currency": {
+    "_id": {
+      "$oid": "600a42a4e0b28c8698210bab"
+    },
+    "CurrencyRateID": 407,
+    "CurrencyRateDate": {
+      "$date": "2011-06-30T23:00:00Z"
+    },
+    "FromCurrencyCode": "USD",
+    "ToCurrencyCode": "CAD",
+    "RateVal": {
+      "$numberDecimal": "1.4773"
+    }
+  },
+  "TaxAmt": {
+    "$numberDecimal": "195.3874"
+  },
+  "SubTotal": {
+    "$numberDecimal": "2036.394"
+  }
+},{
+  "_id": {
+    "$oid": "600b526f079e06c8640a14bc"
+  },
+  "ReceiptID": 43677,
+  "OrderDate": {
+    "$date": "2011-05-30T23:00:00Z"
+  },
+  "Store": 1044,
+  "StoreName": "Superb Sales and Repair",
+  "Customer": {
+    "CustomerKey": 29824,
+    "FirstName": "Roy",
+    "MiddleName": "C",
+    "LastName": "Dominguez",
+    "Gender": "M",
+    "Email": "roy32@adventure-works.com",
+    "AddressLine1": "9130 San Ramon Road",
+    "AddressLine2": "NULL",
+    "Phone": "1 (11) 500 555-0116",
+    "DateFirstPurchase": {
+      "$date": "2013-08-17T00:00:00Z"
+    }
+  },
+  "Products": [
+    {
+      "ID": 715,
+      "Name": "Long-Sleeve Logo Jersey. L",
+      "Number": "Long-Sleeve Logo Jersey. L",
+      "Color": "Multi",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "49.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "28.8404"
+      },
+      "LineTotal": {
+        "$numberDecimal": "86.5212"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 753,
+      "Name": "Road-150 Red. 56",
+      "Number": "Road-150 Red. 56",
+      "Color": "Red",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "3578.27"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2146.962"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2146.962"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 758,
+      "Name": "Road-450 Red. 52",
+      "Number": "Road-450 Red. 52",
+      "Color": "Red",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "874.794"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 770,
+      "Name": "Road-650 Black. 52",
+      "Number": "Road-650 Black. 52",
+      "Color": "Black",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "419.4589"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 708,
+      "Name": "Sport-100 Helmet. Black",
+      "Number": "Sport-100 Helmet. Black",
+      "Color": "Black",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "34.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "20.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "40.373"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 760,
+      "Name": "Road-650 Red. 60",
+      "Number": "Road-650 Red. 60",
+      "Color": "Red",
+      "Quantity": 4,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1677.8356"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 765,
+      "Name": "Road-650 Black. 58",
+      "Number": "Road-650 Black. 58",
+      "Color": "Black",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "838.9178"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 763,
+      "Name": "Road-650 Red. 48",
+      "Number": "Road-650 Red. 48",
+      "Color": "Red",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "419.4589"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 712,
+      "Name": "AWC Logo Cap",
+      "Number": "AWC Logo Cap",
+      "Color": "Multi",
+      "Quantity": 5,
+      "Price": {
+        "$numberDecimal": "8.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "5.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "25.9325"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 707,
+      "Name": "Sport-100 Helmet. Red",
+      "Number": "Sport-100 Helmet. Red",
+      "Color": "Red",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "34.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "20.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "20.1865"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 754,
+      "Name": "Road-450 Red. 58",
+      "Number": "Road-450 Red. 58",
+      "Color": "Red",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "874.794"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 729,
+      "Name": "LL Road Frame - Red. 60",
+      "Number": "LL Road Frame - Red. 60",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "183.9382"
+      },
+      "LineTotal": {
+        "$numberDecimal": "367.8764"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    }
+  ],
+  "Currency": {
+    "_id": {
+      "$oid": "600a42a4e0b28c8698210a18"
+    },
+    "CurrencyRateID": 4,
+    "CurrencyRateDate": {
+      "$date": "2011-05-30T23:00:00Z"
+    },
+    "FromCurrencyCode": "USD",
+    "ToCurrencyCode": "CAD",
+    "RateVal": {
+      "$numberDecimal": "1.4683"
+    }
+  },
+  "TaxAmt": {
+    "$numberDecimal": "747.1011"
+  },
+  "SubTotal": {
+    "$numberDecimal": "7793.1108"
+  }
+},{
+  "_id": {
+    "$oid": "600b526f079e06c8640a14bd"
+  },
+  "ReceiptID": 43661,
+  "OrderDate": {
+    "$date": "2011-05-30T23:00:00Z"
+  },
+  "Store": 852,
+  "StoreName": "Original Bicycle Supply Company",
+  "Customer": {
+    "CustomerKey": 29734,
+    "FirstName": "Tony",
+    "MiddleName": "NULL",
+    "LastName": "Shen",
+    "Gender": "M",
+    "Email": "tony5@adventure-works.com",
+    "AddressLine1": "9643 North Star Dr",
+    "AddressLine2": "NULL",
+    "Phone": "1 (11) 500 555-0123",
+    "DateFirstPurchase": {
+      "$date": "2013-09-22T00:00:00Z"
+    }
+  },
+  "Products": [
+    {
+      "ID": 745,
+      "Name": "HL Mountain Frame - Black. 48",
+      "Number": "HL Mountain Frame - Black. 48",
+      "Color": "Black",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "1349.60"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "809.76"
+      },
+      "LineTotal": {
+        "$numberDecimal": "809.76"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 743,
+      "Name": "HL Mountain Frame - Black. 42",
+      "Number": "HL Mountain Frame - Black. 42",
+      "Color": "Black",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "1349.60"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "714.7043"
+      },
+      "LineTotal": {
+        "$numberDecimal": "714.7043"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 747,
+      "Name": "HL Mountain Frame - Black. 38",
+      "Number": "HL Mountain Frame - Black. 38",
+      "Color": "Black",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "1349.60"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "714.7043"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1429.4086"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 712,
+      "Name": "AWC Logo Cap",
+      "Number": "AWC Logo Cap",
+      "Color": "Multi",
+      "Quantity": 4,
+      "Price": {
+        "$numberDecimal": "8.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "5.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "20.746"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 715,
+      "Name": "Long-Sleeve Logo Jersey. L",
+      "Number": "Long-Sleeve Logo Jersey. L",
+      "Color": "Multi",
+      "Quantity": 4,
+      "Price": {
+        "$numberDecimal": "49.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "28.8404"
+      },
+      "LineTotal": {
+        "$numberDecimal": "115.3616"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 742,
+      "Name": "HL Mountain Frame - Silver. 46",
+      "Number": "HL Mountain Frame - Silver. 46",
+      "Color": "Silver",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "1364.50"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "722.5949"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1445.1898"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 775,
+      "Name": "Mountain-100 Black. 38",
+      "Number": "Mountain-100 Black. 38",
+      "Color": "Black",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "3374.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2024.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "6074.982"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 778,
+      "Name": "Mountain-100 Black. 48",
+      "Number": "Mountain-100 Black. 48",
+      "Color": "Black",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "3374.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2024.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "4049.988"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 711,
+      "Name": "Sport-100 Helmet. Blue",
+      "Number": "Sport-100 Helmet. Blue",
+      "Color": "Blue",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "34.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "20.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "40.373"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 741,
+      "Name": "HL Mountain Frame - Silver. 48",
+      "Number": "HL Mountain Frame - Silver. 48",
+      "Color": "Silver",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "1364.50"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "818.7"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1637.4"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 776,
+      "Name": "Mountain-100 Black. 42",
+      "Number": "Mountain-100 Black. 42",
+      "Color": "Black",
+      "Quantity": 4,
+      "Price": {
+        "$numberDecimal": "3374.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2024.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "8099.976"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 773,
+      "Name": "Mountain-100 Silver. 44",
+      "Number": "Mountain-100 Silver. 44",
+      "Color": "Silver",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "3399.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2039.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "4079.988"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 716,
+      "Name": "Long-Sleeve Logo Jersey. XL",
+      "Number": "Long-Sleeve Logo Jersey. XL",
+      "Color": "Multi",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "49.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "28.8404"
+      },
+      "LineTotal": {
+        "$numberDecimal": "57.6808"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 777,
+      "Name": "Mountain-100 Black. 44",
+      "Number": "Mountain-100 Black. 44",
+      "Color": "Black",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "3374.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2024.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "4049.988"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 708,
+      "Name": "Sport-100 Helmet. Black",
+      "Number": "Sport-100 Helmet. Black",
+      "Color": "Black",
+      "Quantity": 5,
+      "Price": {
+        "$numberDecimal": "34.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "20.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "100.9325"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    }
+  ],
+  "Currency": {
+    "_id": {
+      "$oid": "600a42a4e0b28c8698210a18"
+    },
+    "CurrencyRateID": 4,
+    "CurrencyRateDate": {
+      "$date": "2011-05-30T23:00:00Z"
+    },
+    "FromCurrencyCode": "USD",
+    "ToCurrencyCode": "CAD",
+    "RateVal": {
+      "$numberDecimal": "1.4683"
+    }
+  },
+  "TaxAmt": {
+    "$numberDecimal": "3153.7696"
+  },
+  "SubTotal": {
+    "$numberDecimal": "32726.4786"
+  }
+},{
+  "_id": {
+    "$oid": "600b526f079e06c8640a14be"
+  },
+  "ReceiptID": 43879,
+  "OrderDate": {
+    "$date": "2011-06-30T23:00:00Z"
+  },
+  "Store": 346,
+  "StoreName": "Designated Distributors",
+  "Customer": {
+    "CustomerKey": 29510,
+    "FirstName": "Denise",
+    "MiddleName": "NULL",
+    "LastName": "Smith",
+    "Gender": "M",
+    "Email": "denise2@adventure-works.com",
+    "AddressLine1": "44, rue Saint-Lazare",
+    "AddressLine2": "NULL",
+    "Phone": "326-555-0100",
+    "DateFirstPurchase": {
+      "$date": "2013-12-12T00:00:00Z"
+    }
+  },
+  "Products": [
+    {
+      "ID": 762,
+      "Name": "Road-650 Red. 44",
+      "Number": "Road-650 Red. 44",
+      "Color": "Red",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1258.3767"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 763,
+      "Name": "Road-650 Red. 48",
+      "Number": "Road-650 Red. 48",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "838.9178"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 760,
+      "Name": "Road-650 Red. 60",
+      "Number": "Road-650 Red. 60",
+      "Color": "Red",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1258.3767"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 764,
+      "Name": "Road-650 Red. 52",
+      "Number": "Road-650 Red. 52",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "838.9178"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 715,
+      "Name": "Long-Sleeve Logo Jersey. L",
+      "Number": "Long-Sleeve Logo Jersey. L",
+      "Color": "Multi",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "49.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "28.8404"
+      },
+      "LineTotal": {
+        "$numberDecimal": "57.6808"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 725,
+      "Name": "LL Road Frame - Red. 44",
+      "Number": "LL Road Frame - Red. 44",
+      "Color": "Red",
+      "Quantity": 4,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "183.9382"
+      },
+      "LineTotal": {
+        "$numberDecimal": "735.7528"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 714,
+      "Name": "Long-Sleeve Logo Jersey. M",
+      "Number": "Long-Sleeve Logo Jersey. M",
+      "Color": "Multi",
+      "Quantity": 4,
+      "Price": {
+        "$numberDecimal": "49.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "28.8404"
+      },
+      "LineTotal": {
+        "$numberDecimal": "115.3616"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 770,
+      "Name": "Road-650 Black. 52",
+      "Number": "Road-650 Black. 52",
+      "Color": "Black",
+      "Quantity": 4,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1677.8356"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 730,
+      "Name": "LL Road Frame - Red. 62",
+      "Number": "LL Road Frame - Red. 62",
+      "Color": "Red",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "183.9382"
+      },
+      "LineTotal": {
+        "$numberDecimal": "551.8146"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 754,
+      "Name": "Road-450 Red. 58",
+      "Number": "Road-450 Red. 58",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1749.588"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 726,
+      "Name": "LL Road Frame - Red. 48",
+      "Number": "LL Road Frame - Red. 48",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "183.9382"
+      },
+      "LineTotal": {
+        "$numberDecimal": "367.8764"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 716,
+      "Name": "Long-Sleeve Logo Jersey. XL",
+      "Number": "Long-Sleeve Logo Jersey. XL",
+      "Color": "Multi",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "49.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "28.8404"
+      },
+      "LineTotal": {
+        "$numberDecimal": "28.8404"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 766,
+      "Name": "Road-650 Black. 60",
+      "Number": "Road-650 Black. 60",
+      "Color": "Black",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "838.9178"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 765,
+      "Name": "Road-650 Black. 58",
+      "Number": "Road-650 Black. 58",
+      "Color": "Black",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1258.3767"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 729,
+      "Name": "LL Road Frame - Red. 60",
+      "Number": "LL Road Frame - Red. 60",
+      "Color": "Red",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "183.9382"
+      },
+      "LineTotal": {
+        "$numberDecimal": "551.8146"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 768,
+      "Name": "Road-650 Black. 44",
+      "Number": "Road-650 Black. 44",
+      "Color": "Black",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "419.4589"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 708,
+      "Name": "Sport-100 Helmet. Black",
+      "Number": "Sport-100 Helmet. Black",
+      "Color": "Black",
+      "Quantity": 5,
+      "Price": {
+        "$numberDecimal": "34.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "20.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "100.9325"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 758,
+      "Name": "Road-450 Red. 52",
+      "Number": "Road-450 Red. 52",
+      "Color": "Red",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2624.382"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 756,
+      "Name": "Road-450 Red. 44",
+      "Number": "Road-450 Red. 44",
+      "Color": "Red",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "874.794"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 738,
+      "Name": "LL Road Frame - Black. 52",
+      "Number": "LL Road Frame - Black. 52",
+      "Color": "Black",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "178.5808"
+      },
+      "LineTotal": {
+        "$numberDecimal": "535.7424"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 755,
+      "Name": "Road-450 Red. 60",
+      "Number": "Road-450 Red. 60",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1749.588"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 707,
+      "Name": "Sport-100 Helmet. Red",
+      "Number": "Sport-100 Helmet. Red",
+      "Color": "Red",
+      "Quantity": 4,
+      "Price": {
+        "$numberDecimal": "34.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "20.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "80.746"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 711,
+      "Name": "Sport-100 Helmet. Blue",
+      "Number": "Sport-100 Helmet. Blue",
+      "Color": "Blue",
+      "Quantity": 5,
+      "Price": {
+        "$numberDecimal": "34.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "20.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "100.9325"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 722,
+      "Name": "LL Road Frame - Black. 58",
+      "Number": "LL Road Frame - Black. 58",
+      "Color": "Black",
+      "Quantity": 5,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "178.5808"
+      },
+      "LineTotal": {
+        "$numberDecimal": "892.904"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 753,
+      "Name": "Road-150 Red. 56",
+      "Number": "Road-150 Red. 56",
+      "Color": "Red",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "3578.27"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2146.962"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2146.962"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 712,
+      "Name": "AWC Logo Cap",
+      "Number": "AWC Logo Cap",
+      "Color": "Multi",
+      "Quantity": 13,
+      "Price": {
+        "$numberDecimal": "8.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "5.0136"
+      },
+      "LineTotal": {
+        "$numberDecimal": "63.873264"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    }
+  ],
+  "Currency": {
+    "_id": {
+      "$oid": "600a42a4e0b28c8698210bab"
+    },
+    "CurrencyRateID": 407,
+    "CurrencyRateDate": {
+      "$date": "2011-06-30T23:00:00Z"
+    },
+    "FromCurrencyCode": "USD",
+    "ToCurrencyCode": "CAD",
+    "RateVal": {
+      "$numberDecimal": "1.4773"
+    }
+  },
+  "TaxAmt": {
+    "$numberDecimal": "2087.8858"
+  },
+  "SubTotal": {
+    "$numberDecimal": "21718.7639"
+  }
+},{
+  "_id": {
+    "$oid": "600b526f079e06c8640a14bf"
+  },
+  "ReceiptID": 43882,
+  "OrderDate": {
+    "$date": "2011-06-30T23:00:00Z"
+  },
+  "Store": 466,
+  "StoreName": "Scratch-Resistant Finishes Company",
+  "Customer": {
+    "CustomerKey": 29558,
+    "FirstName": "Roberto",
+    "MiddleName": "NULL",
+    "LastName": "Hernandez",
+    "Gender": "M",
+    "Email": "roberto3@adventure-works.com",
+    "AddressLine1": "8801 Lee Lane",
+    "AddressLine2": "NULL",
+    "Phone": "1 (11) 500 555-0117",
+    "DateFirstPurchase": {
+      "$date": "2013-03-15T00:00:00Z"
+    }
+  },
+  "Products": [
+    {
+      "ID": 778,
+      "Name": "Mountain-100 Black. 48",
+      "Number": "Mountain-100 Black. 48",
+      "Color": "Black",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "3374.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2024.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2024.994"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    }
+  ],
+  "Currency": {
+    "_id": {
+      "$oid": "600a42a4e0b28c8698210bab"
+    },
+    "CurrencyRateID": 407,
+    "CurrencyRateDate": {
+      "$date": "2011-06-30T23:00:00Z"
+    },
+    "FromCurrencyCode": "USD",
+    "ToCurrencyCode": "CAD",
+    "RateVal": {
+      "$numberDecimal": "1.4773"
+    }
+  },
+  "TaxAmt": {
+    "$numberDecimal": "194.3994"
+  },
+  "SubTotal": {
+    "$numberDecimal": "2024.994"
+  }
+},{
+  "_id": {
+    "$oid": "600b526f079e06c8640a14c0"
+  },
+  "ReceiptID": 43880,
+  "OrderDate": {
+    "$date": "2011-06-30T23:00:00Z"
+  },
+  "Store": 970,
+  "StoreName": "Primary Bike Distributors",
+  "Customer": {
+    "CustomerKey": 29789,
+    "FirstName": "Eduardo",
+    "MiddleName": "NULL",
+    "LastName": "Bennett",
+    "Gender": "M",
+    "Email": "eduardo45@adventure-works.com",
+    "AddressLine1": "6453 Pacific",
+    "AddressLine2": "NULL",
+    "Phone": "587-555-0119",
+    "DateFirstPurchase": {
+      "$date": "2012-04-25T00:00:00Z"
+    }
+  },
+  "Products": [
+    {
+      "ID": 760,
+      "Name": "Road-650 Red. 60",
+      "Number": "Road-650 Red. 60",
+      "Color": "Red",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1258.3767"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 755,
+      "Name": "Road-450 Red. 60",
+      "Number": "Road-450 Red. 60",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1749.588"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 762,
+      "Name": "Road-650 Red. 44",
+      "Number": "Road-650 Red. 44",
+      "Color": "Red",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1258.3767"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 770,
+      "Name": "Road-650 Black. 52",
+      "Number": "Road-650 Black. 52",
+      "Color": "Black",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1258.3767"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 766,
+      "Name": "Road-650 Black. 60",
+      "Number": "Road-650 Black. 60",
+      "Color": "Black",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "419.4589"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 738,
+      "Name": "LL Road Frame - Black. 52",
+      "Number": "LL Road Frame - Black. 52",
+      "Color": "Black",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "178.5808"
+      },
+      "LineTotal": {
+        "$numberDecimal": "178.5808"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 732,
+      "Name": "ML Road Frame - Red. 48",
+      "Number": "ML Road Frame - Red. 48",
+      "Color": "Red",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "594.83"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "356.898"
+      },
+      "LineTotal": {
+        "$numberDecimal": "356.898"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 753,
+      "Name": "Road-150 Red. 56",
+      "Number": "Road-150 Red. 56",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "3578.27"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2146.962"
+      },
+      "LineTotal": {
+        "$numberDecimal": "4293.924"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 756,
+      "Name": "Road-450 Red. 44",
+      "Number": "Road-450 Red. 44",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1749.588"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 725,
+      "Name": "LL Road Frame - Red. 44",
+      "Number": "LL Road Frame - Red. 44",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "183.9382"
+      },
+      "LineTotal": {
+        "$numberDecimal": "367.8764"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 758,
+      "Name": "Road-450 Red. 52",
+      "Number": "Road-450 Red. 52",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1749.588"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 764,
+      "Name": "Road-650 Red. 52",
+      "Number": "Road-650 Red. 52",
+      "Color": "Red",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "419.4589"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 768,
+      "Name": "Road-650 Black. 44",
+      "Number": "Road-650 Black. 44",
+      "Color": "Black",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "419.4589"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    }
+  ],
+  "Currency": {
+    "_id": {
+      "$oid": "600a42a4e0b28c8698210bab"
+    },
+    "CurrencyRateID": 407,
+    "CurrencyRateDate": {
+      "$date": "2011-06-30T23:00:00Z"
+    },
+    "FromCurrencyCode": "USD",
+    "ToCurrencyCode": "CAD",
+    "RateVal": {
+      "$numberDecimal": "1.4773"
+    }
+  },
+  "TaxAmt": {
+    "$numberDecimal": "1488.4458"
+  },
+  "SubTotal": {
+    "$numberDecimal": "15479.55"
+  }
+},{
+  "_id": {
+    "$oid": "600b5270079e06c8640a14c1"
+  },
+  "ReceiptID": 43847,
+  "OrderDate": {
+    "$date": "2011-06-30T23:00:00Z"
+  },
+  "Store": 412,
+  "StoreName": "Gasless Cycle Shop",
+  "Customer": {
+    "CustomerKey": 29539,
+    "FirstName": "Ian",
+    "MiddleName": "NULL",
+    "LastName": "Flores",
+    "Gender": "M",
+    "Email": "ian53@adventure-works.com",
+    "AddressLine1": "5402, rue Lauriston",
+    "AddressLine2": "NULL",
+    "Phone": "1 (11) 500 555-0123",
+    "DateFirstPurchase": {
+      "$date": "2012-07-07T00:00:00Z"
+    }
+  },
+  "Products": [
+    {
+      "ID": 715,
+      "Name": "Long-Sleeve Logo Jersey. L",
+      "Number": "Long-Sleeve Logo Jersey. L",
+      "Color": "Multi",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "49.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "28.8404"
+      },
+      "LineTotal": {
+        "$numberDecimal": "28.8404"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 712,
+      "Name": "AWC Logo Cap",
+      "Number": "AWC Logo Cap",
+      "Color": "Multi",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "8.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "5.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "5.1865"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 758,
+      "Name": "Road-450 Red. 52",
+      "Number": "Road-450 Red. 52",
+      "Color": "Red",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "874.794"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    }
+  ],
+  "Currency": {
+    "_id": {
+      "$oid": "600a42a4e0b28c8698210bab"
+    },
+    "CurrencyRateID": 407,
+    "CurrencyRateDate": {
+      "$date": "2011-06-30T23:00:00Z"
+    },
+    "FromCurrencyCode": "USD",
+    "ToCurrencyCode": "CAD",
+    "RateVal": {
+      "$numberDecimal": "1.4773"
+    }
+  },
+  "TaxAmt": {
+    "$numberDecimal": "86.9292"
+  },
+  "SubTotal": {
+    "$numberDecimal": "908.8209"
+  }
+},{
+  "_id": {
+    "$oid": "600b5270079e06c8640a14c2"
+  },
+  "ReceiptID": 44086,
+  "OrderDate": {
+    "$date": "2011-07-31T23:00:00Z"
+  },
+  "Store": 828,
+  "StoreName": "Vigorous Exercise Company",
+  "Customer": {
+    "CustomerKey": 29722,
+    "FirstName": "Steve",
+    "MiddleName": "NULL",
+    "LastName": "Ye",
+    "Gender": "M",
+    "Email": "steve13@adventure-works.com",
+    "AddressLine1": "6986 Countrywood Ct.",
+    "AddressLine2": "NULL",
+    "Phone": "1 (11) 500 555-0118",
+    "DateFirstPurchase": {
+      "$date": "2013-08-14T00:00:00Z"
+    }
+  },
+  "Products": [
+    {
+      "ID": 771,
+      "Name": "Mountain-100 Silver. 38",
+      "Number": "Mountain-100 Silver. 38",
+      "Color": "Silver",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "3399.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2039.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "6119.982"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 741,
+      "Name": "HL Mountain Frame - Silver. 48",
+      "Number": "HL Mountain Frame - Silver. 48",
+      "Color": "Silver",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "1364.50"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "818.7"
+      },
+      "LineTotal": {
+        "$numberDecimal": "818.7"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 709,
+      "Name": "Mountain Bike Socks. M",
+      "Number": "Mountain Bike Socks. M",
+      "Color": "White",
+      "Quantity": 10,
+      "Price": {
+        "$numberDecimal": "9.50"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "5.7"
+      },
+      "LineTotal": {
+        "$numberDecimal": "57"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 773,
+      "Name": "Mountain-100 Silver. 44",
+      "Number": "Mountain-100 Silver. 44",
+      "Color": "Silver",
+      "Quantity": 4,
+      "Price": {
+        "$numberDecimal": "3399.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2039.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "8159.976"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 775,
+      "Name": "Mountain-100 Black. 38",
+      "Number": "Mountain-100 Black. 38",
+      "Color": "Black",
+      "Quantity": 4,
+      "Price": {
+        "$numberDecimal": "3374.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2024.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "8099.976"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 776,
+      "Name": "Mountain-100 Black. 42",
+      "Number": "Mountain-100 Black. 42",
+      "Color": "Black",
+      "Quantity": 5,
+      "Price": {
+        "$numberDecimal": "3374.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2024.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "10124.97"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 772,
+      "Name": "Mountain-100 Silver. 42",
+      "Number": "Mountain-100 Silver. 42",
+      "Color": "Silver",
+      "Quantity": 4,
+      "Price": {
+        "$numberDecimal": "3399.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2039.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "8159.976"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 708,
+      "Name": "Sport-100 Helmet. Black",
+      "Number": "Sport-100 Helmet. Black",
+      "Color": "Black",
+      "Quantity": 4,
+      "Price": {
+        "$numberDecimal": "34.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "20.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "80.746"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 774,
+      "Name": "Mountain-100 Silver. 48",
+      "Number": "Mountain-100 Silver. 48",
+      "Color": "Silver",
+      "Quantity": 5,
+      "Price": {
+        "$numberDecimal": "3399.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2039.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "10199.97"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 714,
+      "Name": "Long-Sleeve Logo Jersey. M",
+      "Number": "Long-Sleeve Logo Jersey. M",
+      "Color": "Multi",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "49.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "28.8404"
+      },
+      "LineTotal": {
+        "$numberDecimal": "86.5212"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 743,
+      "Name": "HL Mountain Frame - Black. 42",
+      "Number": "HL Mountain Frame - Black. 42",
+      "Color": "Black",
+      "Quantity": 5,
+      "Price": {
+        "$numberDecimal": "1349.60"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "714.7043"
+      },
+      "LineTotal": {
+        "$numberDecimal": "3573.5215"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 778,
+      "Name": "Mountain-100 Black. 48",
+      "Number": "Mountain-100 Black. 48",
+      "Color": "Black",
+      "Quantity": 4,
+      "Price": {
+        "$numberDecimal": "3374.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2024.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "8099.976"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 748,
+      "Name": "HL Mountain Frame - Silver. 38",
+      "Number": "HL Mountain Frame - Silver. 38",
+      "Color": "Silver",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "1364.50"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "722.5949"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2167.7847"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 715,
+      "Name": "Long-Sleeve Logo Jersey. L",
+      "Number": "Long-Sleeve Logo Jersey. L",
+      "Color": "Multi",
+      "Quantity": 4,
+      "Price": {
+        "$numberDecimal": "49.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "28.8404"
+      },
+      "LineTotal": {
+        "$numberDecimal": "115.3616"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 712,
+      "Name": "AWC Logo Cap",
+      "Number": "AWC Logo Cap",
+      "Color": "Multi",
+      "Quantity": 10,
+      "Price": {
+        "$numberDecimal": "8.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "5.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "51.865"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 707,
+      "Name": "Sport-100 Helmet. Red",
+      "Number": "Sport-100 Helmet. Red",
+      "Color": "Red",
+      "Quantity": 5,
+      "Price": {
+        "$numberDecimal": "34.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "20.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "100.9325"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 747,
+      "Name": "HL Mountain Frame - Black. 38",
+      "Number": "HL Mountain Frame - Black. 38",
+      "Color": "Black",
+      "Quantity": 4,
+      "Price": {
+        "$numberDecimal": "1349.60"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "714.7043"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2858.8172"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 711,
+      "Name": "Sport-100 Helmet. Blue",
+      "Number": "Sport-100 Helmet. Blue",
+      "Color": "Blue",
+      "Quantity": 10,
+      "Price": {
+        "$numberDecimal": "34.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "20.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "201.865"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 716,
+      "Name": "Long-Sleeve Logo Jersey. XL",
+      "Number": "Long-Sleeve Logo Jersey. XL",
+      "Color": "Multi",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "49.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "28.8404"
+      },
+      "LineTotal": {
+        "$numberDecimal": "86.5212"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 745,
+      "Name": "HL Mountain Frame - Black. 48",
+      "Number": "HL Mountain Frame - Black. 48",
+      "Color": "Black",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "1349.60"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "809.76"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2429.28"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 742,
+      "Name": "HL Mountain Frame - Silver. 46",
+      "Number": "HL Mountain Frame - Silver. 46",
+      "Color": "Silver",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "1364.50"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "722.5949"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2167.7847"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    }
+  ],
+  "Currency": {
+    "_id": {
+      "$oid": "600a42a4e0b28c8698210d3e"
+    },
+    "CurrencyRateID": 810,
+    "CurrencyRateDate": {
+      "$date": "2011-07-31T23:00:00Z"
+    },
+    "FromCurrencyCode": "USD",
+    "ToCurrencyCode": "CAD",
+    "RateVal": {
+      "$numberDecimal": "1.4515"
+    }
+  },
+  "TaxAmt": {
+    "$numberDecimal": "7108.6377"
+  },
+  "SubTotal": {
+    "$numberDecimal": "73761.5266"
+  }
+},{
+  "_id": {
+    "$oid": "600b5270079e06c8640a14c3"
+  },
+  "ReceiptID": 44077,
+  "OrderDate": {
+    "$date": "2011-07-31T23:00:00Z"
+  },
+  "Store": 812,
+  "StoreName": "Sundry Sporting Goods",
+  "Customer": {
+    "CustomerKey": 29714,
+    "FirstName": "Brian",
+    "MiddleName": "NULL",
+    "LastName": "Rogers",
+    "Gender": "M",
+    "Email": "brian31@adventure-works.com",
+    "AddressLine1": "7375 Greendell Rd.",
+    "AddressLine2": "NULL",
+    "Phone": "530-555-0166",
+    "DateFirstPurchase": {
+      "$date": "2013-01-28T00:00:00Z"
+    }
+  },
+  "Products": [
+    {
+      "ID": 758,
+      "Name": "Road-450 Red. 52",
+      "Number": "Road-450 Red. 52",
+      "Color": "Red",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "874.794"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 770,
+      "Name": "Road-650 Black. 52",
+      "Number": "Road-650 Black. 52",
+      "Color": "Black",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "838.9178"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 715,
+      "Name": "Long-Sleeve Logo Jersey. L",
+      "Number": "Long-Sleeve Logo Jersey. L",
+      "Color": "Multi",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "49.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "28.8404"
+      },
+      "LineTotal": {
+        "$numberDecimal": "28.8404"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 708,
+      "Name": "Sport-100 Helmet. Black",
+      "Number": "Sport-100 Helmet. Black",
+      "Color": "Black",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "34.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "20.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "40.373"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 760,
+      "Name": "Road-650 Red. 60",
+      "Number": "Road-650 Red. 60",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "838.9178"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 754,
+      "Name": "Road-450 Red. 58",
+      "Number": "Road-450 Red. 58",
+      "Color": "Red",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2624.382"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 762,
+      "Name": "Road-650 Red. 44",
+      "Number": "Road-650 Red. 44",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "838.9178"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 707,
+      "Name": "Sport-100 Helmet. Red",
+      "Number": "Sport-100 Helmet. Red",
+      "Color": "Red",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "34.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "20.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "20.1865"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    }
+  ],
+  "Currency": {
+    "_id": {
+      "$oid": "600a42a4e0b28c8698210d3e"
+    },
+    "CurrencyRateID": 810,
+    "CurrencyRateDate": {
+      "$date": "2011-07-31T23:00:00Z"
+    },
+    "FromCurrencyCode": "USD",
+    "ToCurrencyCode": "CAD",
+    "RateVal": {
+      "$numberDecimal": "1.4515"
+    }
+  },
+  "TaxAmt": {
+    "$numberDecimal": "584.8735"
+  },
+  "SubTotal": {
+    "$numberDecimal": "6105.3293"
+  }
+},{
+  "_id": {
+    "$oid": "600b5270079e06c8640a14c4"
+  },
+  "ReceiptID": 44111,
+  "OrderDate": {
+    "$date": "2011-07-31T23:00:00Z"
+  },
+  "Store": 864,
+  "StoreName": "Price-Cutter Discount Bikes",
+  "Customer": {
+    "CustomerKey": 29740,
+    "FirstName": "Martha",
+    "MiddleName": "NULL",
+    "LastName": "Ma",
+    "Gender": "F",
+    "Email": "martha15@adventure-works.com",
+    "AddressLine1": "9593 Delaware Dr.",
+    "AddressLine2": "NULL",
+    "Phone": "735-555-0183",
+    "DateFirstPurchase": {
+      "$date": "2013-04-14T00:00:00Z"
+    }
+  },
+  "Products": [
+    {
+      "ID": 754,
+      "Name": "Road-450 Red. 58",
+      "Number": "Road-450 Red. 58",
+      "Color": "Red",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "874.794"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 716,
+      "Name": "Long-Sleeve Logo Jersey. XL",
+      "Number": "Long-Sleeve Logo Jersey. XL",
+      "Color": "Multi",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "49.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "28.8404"
+      },
+      "LineTotal": {
+        "$numberDecimal": "57.6808"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 762,
+      "Name": "Road-650 Red. 44",
+      "Number": "Road-650 Red. 44",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "838.9178"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 756,
+      "Name": "Road-450 Red. 44",
+      "Number": "Road-450 Red. 44",
+      "Color": "Red",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "874.794"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 755,
+      "Name": "Road-450 Red. 60",
+      "Number": "Road-450 Red. 60",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1749.588"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 732,
+      "Name": "ML Road Frame - Red. 48",
+      "Number": "ML Road Frame - Red. 48",
+      "Color": "Red",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "594.83"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "356.898"
+      },
+      "LineTotal": {
+        "$numberDecimal": "356.898"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 708,
+      "Name": "Sport-100 Helmet. Black",
+      "Number": "Sport-100 Helmet. Black",
+      "Color": "Black",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "34.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "20.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "40.373"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 765,
+      "Name": "Road-650 Black. 58",
+      "Number": "Road-650 Black. 58",
+      "Color": "Black",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "838.9178"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 766,
+      "Name": "Road-650 Black. 60",
+      "Number": "Road-650 Black. 60",
+      "Color": "Black",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "419.4589"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 761,
+      "Name": "Road-650 Red. 62",
+      "Number": "Road-650 Red. 62",
+      "Color": "Red",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1258.3767"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 712,
+      "Name": "AWC Logo Cap",
+      "Number": "AWC Logo Cap",
+      "Color": "Multi",
+      "Quantity": 6,
+      "Price": {
+        "$numberDecimal": "8.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "5.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "31.119"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 738,
+      "Name": "LL Road Frame - Black. 52",
+      "Number": "LL Road Frame - Black. 52",
+      "Color": "Black",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "178.5808"
+      },
+      "LineTotal": {
+        "$numberDecimal": "178.5808"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 725,
+      "Name": "LL Road Frame - Red. 44",
+      "Number": "LL Road Frame - Red. 44",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "183.9382"
+      },
+      "LineTotal": {
+        "$numberDecimal": "367.8764"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 715,
+      "Name": "Long-Sleeve Logo Jersey. L",
+      "Number": "Long-Sleeve Logo Jersey. L",
+      "Color": "Multi",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "49.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "28.8404"
+      },
+      "LineTotal": {
+        "$numberDecimal": "57.6808"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 707,
+      "Name": "Sport-100 Helmet. Red",
+      "Number": "Sport-100 Helmet. Red",
+      "Color": "Red",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "34.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "20.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "20.1865"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 764,
+      "Name": "Road-650 Red. 52",
+      "Number": "Road-650 Red. 52",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "838.9178"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 729,
+      "Name": "LL Road Frame - Red. 60",
+      "Number": "LL Road Frame - Red. 60",
+      "Color": "Red",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "183.9382"
+      },
+      "LineTotal": {
+        "$numberDecimal": "183.9382"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 758,
+      "Name": "Road-450 Red. 52",
+      "Number": "Road-450 Red. 52",
+      "Color": "Red",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2624.382"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 714,
+      "Name": "Long-Sleeve Logo Jersey. M",
+      "Number": "Long-Sleeve Logo Jersey. M",
+      "Color": "Multi",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "49.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "28.8404"
+      },
+      "LineTotal": {
+        "$numberDecimal": "28.8404"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    }
+  ],
+  "Currency": {
+    "_id": {
+      "$oid": "600a42a4e0b28c8698210d3e"
+    },
+    "CurrencyRateID": 810,
+    "CurrencyRateDate": {
+      "$date": "2011-07-31T23:00:00Z"
+    },
+    "FromCurrencyCode": "USD",
+    "ToCurrencyCode": "CAD",
+    "RateVal": {
+      "$numberDecimal": "1.4515"
+    }
+  },
+  "TaxAmt": {
+    "$numberDecimal": "1117.861"
+  },
+  "SubTotal": {
+    "$numberDecimal": "11641.3209"
+  }
+},{
+  "_id": {
+    "$oid": "600b5270079e06c8640a14c5"
+  },
+  "ReceiptID": 43891,
+  "OrderDate": {
+    "$date": "2011-06-30T23:00:00Z"
+  },
+  "Store": 1010,
+  "StoreName": "Cross-Country Riding Supplies",
+  "Customer": {
+    "CustomerKey": 29807,
+    "FirstName": "Arturo",
+    "MiddleName": "NULL",
+    "LastName": "Carson",
+    "Gender": "M",
+    "Email": "arturo41@adventure-works.com",
+    "AddressLine1": "911 Nicholas Drive",
+    "AddressLine2": "NULL",
+    "Phone": "215-555-0124",
+    "DateFirstPurchase": {
+      "$date": "2013-12-24T00:00:00Z"
+    }
+  },
+  "Products": [
+    {
+      "ID": 775,
+      "Name": "Mountain-100 Black. 38",
+      "Number": "Mountain-100 Black. 38",
+      "Color": "Black",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "3374.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2024.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "4049.988"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 710,
+      "Name": "Mountain Bike Socks. L",
+      "Number": "Mountain Bike Socks. L",
+      "Color": "White",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "9.50"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "5.7"
+      },
+      "LineTotal": {
+        "$numberDecimal": "11.4"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 778,
+      "Name": "Mountain-100 Black. 48",
+      "Number": "Mountain-100 Black. 48",
+      "Color": "Black",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "3374.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2024.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2024.994"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 773,
+      "Name": "Mountain-100 Silver. 44",
+      "Number": "Mountain-100 Silver. 44",
+      "Color": "Silver",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "3399.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2039.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "6119.982"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 771,
+      "Name": "Mountain-100 Silver. 38",
+      "Number": "Mountain-100 Silver. 38",
+      "Color": "Silver",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "3399.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2039.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "6119.982"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 709,
+      "Name": "Mountain Bike Socks. M",
+      "Number": "Mountain Bike Socks. M",
+      "Color": "White",
+      "Quantity": 4,
+      "Price": {
+        "$numberDecimal": "9.50"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "5.7"
+      },
+      "LineTotal": {
+        "$numberDecimal": "22.8"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 776,
+      "Name": "Mountain-100 Black. 42",
+      "Number": "Mountain-100 Black. 42",
+      "Color": "Black",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "3374.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2024.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "4049.988"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 772,
+      "Name": "Mountain-100 Silver. 42",
+      "Number": "Mountain-100 Silver. 42",
+      "Color": "Silver",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "3399.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2039.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "6119.982"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 777,
+      "Name": "Mountain-100 Black. 44",
+      "Number": "Mountain-100 Black. 44",
+      "Color": "Black",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "3374.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2024.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "4049.988"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    }
+  ],
+  "Currency": {
+    "_id": {
+      "$oid": "600a42a4e0b28c8698210bab"
+    },
+    "CurrencyRateID": 407,
+    "CurrencyRateDate": {
+      "$date": "2011-06-30T23:00:00Z"
+    },
+    "FromCurrencyCode": "USD",
+    "ToCurrencyCode": "CAD",
+    "RateVal": {
+      "$numberDecimal": "1.4773"
+    }
+  },
+  "TaxAmt": {
+    "$numberDecimal": "3126.3148"
+  },
+  "SubTotal": {
+    "$numberDecimal": "32569.104"
+  }
+},{
+  "_id": {
+    "$oid": "600b5271079e06c8640a14c6"
+  },
+  "ReceiptID": 44103,
+  "OrderDate": {
+    "$date": "2011-07-31T23:00:00Z"
+  },
+  "Store": 512,
+  "StoreName": "Metal Processing Company",
+  "Customer": {
+    "CustomerKey": 29577,
+    "FirstName": "Frederick",
+    "MiddleName": "F",
+    "LastName": "Raman",
+    "Gender": "M",
+    "Email": "frederick11@adventure-works.com",
+    "AddressLine1": "6176 Crow Street",
+    "AddressLine2": "NULL",
+    "Phone": "1 (11) 500 555-0139",
+    "DateFirstPurchase": {
+      "$date": "2013-04-16T00:00:00Z"
+    }
+  },
+  "Products": [
+    {
+      "ID": 770,
+      "Name": "Road-650 Black. 52",
+      "Number": "Road-650 Black. 52",
+      "Color": "Black",
+      "Quantity": 4,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1677.8356"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 762,
+      "Name": "Road-650 Red. 44",
+      "Number": "Road-650 Red. 44",
+      "Color": "Red",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1258.3767"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 760,
+      "Name": "Road-650 Red. 60",
+      "Number": "Road-650 Red. 60",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "838.9178"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 715,
+      "Name": "Long-Sleeve Logo Jersey. L",
+      "Number": "Long-Sleeve Logo Jersey. L",
+      "Color": "Multi",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "49.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "28.8404"
+      },
+      "LineTotal": {
+        "$numberDecimal": "28.8404"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 712,
+      "Name": "AWC Logo Cap",
+      "Number": "AWC Logo Cap",
+      "Color": "Multi",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "8.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "5.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "10.373"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    }
+  ],
+  "Currency": {
+    "_id": {
+      "$oid": "600a42a4e0b28c8698210d3e"
+    },
+    "CurrencyRateID": 810,
+    "CurrencyRateDate": {
+      "$date": "2011-07-31T23:00:00Z"
+    },
+    "FromCurrencyCode": "USD",
+    "ToCurrencyCode": "CAD",
+    "RateVal": {
+      "$numberDecimal": "1.4515"
+    }
+  },
+  "TaxAmt": {
+    "$numberDecimal": "365.811"
+  },
+  "SubTotal": {
+    "$numberDecimal": "3814.3435"
+  }
+},{
+  "_id": {
+    "$oid": "600b5271079e06c8640a14c7"
+  },
+  "ReceiptID": 44082,
+  "OrderDate": {
+    "$date": "2011-07-31T23:00:00Z"
+  },
+  "Store": 998,
+  "StoreName": "Greater Bike Store",
+  "Customer": {
+    "CustomerKey": 29803,
+    "FirstName": "Derrick",
+    "MiddleName": "NULL",
+    "LastName": "Romero",
+    "Gender": "M",
+    "Email": "derrick9@adventure-works.com",
+    "AddressLine1": "5186 Oeffler Ln.",
+    "AddressLine2": "NULL",
+    "Phone": "781-555-0172",
+    "DateFirstPurchase": {
+      "$date": "2011-07-21T00:00:00Z"
+    }
+  },
+  "Products": [
+    {
+      "ID": 772,
+      "Name": "Mountain-100 Silver. 42",
+      "Number": "Mountain-100 Silver. 42",
+      "Color": "Silver",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "3399.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2039.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2039.994"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    }
+  ],
+  "Currency": {
+    "_id": {
+      "$oid": "600a42a4e0b28c8698210d3e"
+    },
+    "CurrencyRateID": 810,
+    "CurrencyRateDate": {
+      "$date": "2011-07-31T23:00:00Z"
+    },
+    "FromCurrencyCode": "USD",
+    "ToCurrencyCode": "CAD",
+    "RateVal": {
+      "$numberDecimal": "1.4515"
+    }
+  },
+  "TaxAmt": {
+    "$numberDecimal": "195.8394"
+  },
+  "SubTotal": {
+    "$numberDecimal": "2039.994"
+  }
+},{
+  "_id": {
+    "$oid": "600b5271079e06c8640a14c8"
+  },
+  "ReceiptID": 43886,
+  "OrderDate": {
+    "$date": "2011-06-30T23:00:00Z"
+  },
+  "Store": 780,
+  "StoreName": "Finer Riding Supplies",
+  "Customer": {
+    "CustomerKey": 29698,
+    "FirstName": "Alan",
+    "MiddleName": "L",
+    "LastName": "Liang",
+    "Gender": "M",
+    "Email": "alan20@adventure-works.com",
+    "AddressLine1": "4971 Twincreek Ct.",
+    "AddressLine2": "NULL",
+    "Phone": "1 (11) 500 555-0161",
+    "DateFirstPurchase": {
+      "$date": "2013-06-07T00:00:00Z"
+    }
+  },
+  "Products": [
+    {
+      "ID": 754,
+      "Name": "Road-450 Red. 58",
+      "Number": "Road-450 Red. 58",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1749.588"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 763,
+      "Name": "Road-650 Red. 48",
+      "Number": "Road-650 Red. 48",
+      "Color": "Red",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "419.4589"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 726,
+      "Name": "LL Road Frame - Red. 48",
+      "Number": "LL Road Frame - Red. 48",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "183.9382"
+      },
+      "LineTotal": {
+        "$numberDecimal": "367.8764"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 768,
+      "Name": "Road-650 Black. 44",
+      "Number": "Road-650 Black. 44",
+      "Color": "Black",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "419.4589"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 756,
+      "Name": "Road-450 Red. 44",
+      "Number": "Road-450 Red. 44",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1749.588"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 711,
+      "Name": "Sport-100 Helmet. Blue",
+      "Number": "Sport-100 Helmet. Blue",
+      "Color": "Blue",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "34.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "20.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "60.5595"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 712,
+      "Name": "AWC Logo Cap",
+      "Number": "AWC Logo Cap",
+      "Color": "Multi",
+      "Quantity": 6,
+      "Price": {
+        "$numberDecimal": "8.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "5.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "31.119"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 708,
+      "Name": "Sport-100 Helmet. Black",
+      "Number": "Sport-100 Helmet. Black",
+      "Color": "Black",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "34.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "20.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "20.1865"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 758,
+      "Name": "Road-450 Red. 52",
+      "Number": "Road-450 Red. 52",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1749.588"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 770,
+      "Name": "Road-650 Black. 52",
+      "Number": "Road-650 Black. 52",
+      "Color": "Black",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "838.9178"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 760,
+      "Name": "Road-650 Red. 60",
+      "Number": "Road-650 Red. 60",
+      "Color": "Red",
+      "Quantity": 5,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2097.2945"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 733,
+      "Name": "ML Road Frame - Red. 52",
+      "Number": "ML Road Frame - Red. 52",
+      "Color": "Red",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "594.83"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "356.898"
+      },
+      "LineTotal": {
+        "$numberDecimal": "356.898"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 716,
+      "Name": "Long-Sleeve Logo Jersey. XL",
+      "Number": "Long-Sleeve Logo Jersey. XL",
+      "Color": "Multi",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "49.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "28.8404"
+      },
+      "LineTotal": {
+        "$numberDecimal": "28.8404"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 730,
+      "Name": "LL Road Frame - Red. 62",
+      "Number": "LL Road Frame - Red. 62",
+      "Color": "Red",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "183.9382"
+      },
+      "LineTotal": {
+        "$numberDecimal": "183.9382"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 755,
+      "Name": "Road-450 Red. 60",
+      "Number": "Road-450 Red. 60",
+      "Color": "Red",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "874.794"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 722,
+      "Name": "LL Road Frame - Black. 58",
+      "Number": "LL Road Frame - Black. 58",
+      "Color": "Black",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "178.5808"
+      },
+      "LineTotal": {
+        "$numberDecimal": "178.5808"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 714,
+      "Name": "Long-Sleeve Logo Jersey. M",
+      "Number": "Long-Sleeve Logo Jersey. M",
+      "Color": "Multi",
+      "Quantity": 5,
+      "Price": {
+        "$numberDecimal": "49.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "28.8404"
+      },
+      "LineTotal": {
+        "$numberDecimal": "144.202"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 766,
+      "Name": "Road-650 Black. 60",
+      "Number": "Road-650 Black. 60",
+      "Color": "Black",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "419.4589"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 762,
+      "Name": "Road-650 Red. 44",
+      "Number": "Road-650 Red. 44",
+      "Color": "Red",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1258.3767"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 753,
+      "Name": "Road-150 Red. 56",
+      "Number": "Road-150 Red. 56",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "3578.27"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2146.962"
+      },
+      "LineTotal": {
+        "$numberDecimal": "4293.924"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 715,
+      "Name": "Long-Sleeve Logo Jersey. L",
+      "Number": "Long-Sleeve Logo Jersey. L",
+      "Color": "Multi",
+      "Quantity": 4,
+      "Price": {
+        "$numberDecimal": "49.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "28.8404"
+      },
+      "LineTotal": {
+        "$numberDecimal": "115.3616"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    }
+  ],
+  "Currency": {
+    "_id": {
+      "$oid": "600a42a4e0b28c8698210bab"
+    },
+    "CurrencyRateID": 407,
+    "CurrencyRateDate": {
+      "$date": "2011-06-30T23:00:00Z"
+    },
+    "FromCurrencyCode": "USD",
+    "ToCurrencyCode": "CAD",
+    "RateVal": {
+      "$numberDecimal": "1.4773"
+    }
+  },
+  "TaxAmt": {
+    "$numberDecimal": "1664.9942"
+  },
+  "SubTotal": {
+    "$numberDecimal": "17358.0101"
+  }
+},{
+  "_id": {
+    "$oid": "600b5271079e06c8640a14c9"
+  },
+  "ReceiptID": 43679,
+  "OrderDate": {
+    "$date": "2011-05-30T23:00:00Z"
+  },
+  "Store": 908,
+  "StoreName": "General Bike Corporation",
+  "Customer": {
+    "CustomerKey": 29761,
+    "FirstName": "Chloe",
+    "MiddleName": "NULL",
+    "LastName": "Cox",
+    "Gender": "F",
+    "Email": "chloe56@adventure-works.com",
+    "AddressLine1": "2477 Macalven Drive",
+    "AddressLine2": "NULL",
+    "Phone": "237-555-0112",
+    "DateFirstPurchase": {
+      "$date": "2011-06-01T00:00:00Z"
+    }
+  },
+  "Products": [
+    {
+      "ID": 760,
+      "Name": "Road-650 Red. 60",
+      "Number": "Road-650 Red. 60",
+      "Color": "Red",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "419.4589"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 770,
+      "Name": "Road-650 Black. 52",
+      "Number": "Road-650 Black. 52",
+      "Color": "Black",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "838.9178"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 715,
+      "Name": "Long-Sleeve Logo Jersey. L",
+      "Number": "Long-Sleeve Logo Jersey. L",
+      "Color": "Multi",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "49.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "28.8404"
+      },
+      "LineTotal": {
+        "$numberDecimal": "57.6808"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    }
+  ],
+  "Currency": {
+    "_id": {
+      "$oid": "600a42a4e0b28c8698210a18"
+    },
+    "CurrencyRateID": 4,
+    "CurrencyRateDate": {
+      "$date": "2011-05-30T23:00:00Z"
+    },
+    "FromCurrencyCode": "USD",
+    "ToCurrencyCode": "CAD",
+    "RateVal": {
+      "$numberDecimal": "1.4683"
+    }
+  },
+  "TaxAmt": {
+    "$numberDecimal": "125.8032"
+  },
+  "SubTotal": {
+    "$numberDecimal": "1316.0575"
+  }
+},{
+  "_id": {
+    "$oid": "600b5271079e06c8640a14ca"
+  },
+  "ReceiptID": 44104,
+  "OrderDate": {
+    "$date": "2011-07-31T23:00:00Z"
+  },
+  "Store": 896,
+  "StoreName": "Quick Delivery Service",
+  "Customer": {
+    "CustomerKey": 29755,
+    "FirstName": "Kaitlyn",
+    "MiddleName": "NULL",
+    "LastName": "Brown",
+    "Gender": "F",
+    "Email": "kaitlyn27@adventure-works.com",
+    "AddressLine1": "3574 Haven Hill Drive",
+    "AddressLine2": "NULL",
+    "Phone": "1 (11) 500 555-0158",
+    "DateFirstPurchase": {
+      "$date": "2013-06-08T00:00:00Z"
+    }
+  },
+  "Products": [
+    {
+      "ID": 773,
+      "Name": "Mountain-100 Silver. 44",
+      "Number": "Mountain-100 Silver. 44",
+      "Color": "Silver",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "3399.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2039.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2039.994"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 772,
+      "Name": "Mountain-100 Silver. 42",
+      "Number": "Mountain-100 Silver. 42",
+      "Color": "Silver",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "3399.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2039.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2039.994"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    }
+  ],
+  "Currency": {
+    "_id": {
+      "$oid": "600a42a4e0b28c8698210d3e"
+    },
+    "CurrencyRateID": 810,
+    "CurrencyRateDate": {
+      "$date": "2011-07-31T23:00:00Z"
+    },
+    "FromCurrencyCode": "USD",
+    "ToCurrencyCode": "CAD",
+    "RateVal": {
+      "$numberDecimal": "1.4515"
+    }
+  },
+  "TaxAmt": {
+    "$numberDecimal": "391.6788"
+  },
+  "SubTotal": {
+    "$numberDecimal": "4079.988"
+  }
+},{
+  "_id": {
+    "$oid": "600b5271079e06c8640a14cb"
+  },
+  "ReceiptID": 44112,
+  "OrderDate": {
+    "$date": "2011-07-31T23:00:00Z"
+  },
+  "Store": 668,
+  "StoreName": "General Cycle Storehouse",
+  "Customer": {
+    "CustomerKey": 29649,
+    "FirstName": "Ryan",
+    "MiddleName": "K",
+    "LastName": "Powell",
+    "Gender": "M",
+    "Email": "ryan11@adventure-works.com",
+    "AddressLine1": "20 Chestnut Ave",
+    "AddressLine2": "NULL",
+    "Phone": "113-555-0122",
+    "DateFirstPurchase": {
+      "$date": "2013-02-04T00:00:00Z"
+    }
+  },
+  "Products": [
+    {
+      "ID": 771,
+      "Name": "Mountain-100 Silver. 38",
+      "Number": "Mountain-100 Silver. 38",
+      "Color": "Silver",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "3399.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2039.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2039.994"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 774,
+      "Name": "Mountain-100 Silver. 48",
+      "Number": "Mountain-100 Silver. 48",
+      "Color": "Silver",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "3399.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2039.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2039.994"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 775,
+      "Name": "Mountain-100 Black. 38",
+      "Number": "Mountain-100 Black. 38",
+      "Color": "Black",
+      "Quantity": 8,
+      "Price": {
+        "$numberDecimal": "3374.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2024.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "16199.952"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 776,
+      "Name": "Mountain-100 Black. 42",
+      "Number": "Mountain-100 Black. 42",
+      "Color": "Black",
+      "Quantity": 5,
+      "Price": {
+        "$numberDecimal": "3374.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2024.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "10124.97"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 772,
+      "Name": "Mountain-100 Silver. 42",
+      "Number": "Mountain-100 Silver. 42",
+      "Color": "Silver",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "3399.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2039.994"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2039.994"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    }
+  ],
+  "Currency": {
+    "_id": {
+      "$oid": "600a42a4e0b28c8698210d3e"
+    },
+    "CurrencyRateID": 810,
+    "CurrencyRateDate": {
+      "$date": "2011-07-31T23:00:00Z"
+    },
+    "FromCurrencyCode": "USD",
+    "ToCurrencyCode": "CAD",
+    "RateVal": {
+      "$numberDecimal": "1.4515"
+    }
+  },
+  "TaxAmt": {
+    "$numberDecimal": "3114.7108"
+  },
+  "SubTotal": {
+    "$numberDecimal": "32444.904"
+  }
+},{
+  "_id": {
+    "$oid": "600b5272079e06c8640a14cc"
+  },
+  "ReceiptID": 43846,
+  "OrderDate": {
+    "$date": "2011-06-30T23:00:00Z"
+  },
+  "Store": 438,
+  "StoreName": "First-Rate Outlet",
+  "Customer": {
+    "CustomerKey": 29548,
+    "FirstName": "Krista",
+    "MiddleName": "NULL",
+    "LastName": "Diaz",
+    "Gender": "F",
+    "Email": "krista3@adventure-works.com",
+    "AddressLine1": "2415 Angi Lane",
+    "AddressLine2": "NULL",
+    "Phone": "1 (11) 500 555-0119",
+    "DateFirstPurchase": {
+      "$date": "2013-10-22T00:00:00Z"
+    }
+  },
+  "Products": [
+    {
+      "ID": 729,
+      "Name": "LL Road Frame - Red. 60",
+      "Number": "LL Road Frame - Red. 60",
+      "Color": "Red",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "183.9382"
+      },
+      "LineTotal": {
+        "$numberDecimal": "551.8146"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 712,
+      "Name": "AWC Logo Cap",
+      "Number": "AWC Logo Cap",
+      "Color": "Multi",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "8.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "5.1865"
+      },
+      "LineTotal": {
+        "$numberDecimal": "5.1865"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 738,
+      "Name": "LL Road Frame - Black. 52",
+      "Number": "LL Road Frame - Black. 52",
+      "Color": "Black",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "178.5808"
+      },
+      "LineTotal": {
+        "$numberDecimal": "178.5808"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 725,
+      "Name": "LL Road Frame - Red. 44",
+      "Number": "LL Road Frame - Red. 44",
+      "Color": "Red",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "183.9382"
+      },
+      "LineTotal": {
+        "$numberDecimal": "183.9382"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    }
+  ],
+  "Currency": {
+    "_id": {
+      "$oid": "600a42a4e0b28c8698210bab"
+    },
+    "CurrencyRateID": 407,
+    "CurrencyRateDate": {
+      "$date": "2011-06-30T23:00:00Z"
+    },
+    "FromCurrencyCode": "USD",
+    "ToCurrencyCode": "CAD",
+    "RateVal": {
+      "$numberDecimal": "1.4773"
+    }
+  },
+  "TaxAmt": {
+    "$numberDecimal": "90.6637"
+  },
+  "SubTotal": {
+    "$numberDecimal": "919.5201"
+  }
+},{
+  "_id": {
+    "$oid": "600b5272079e06c8640a14cd"
+  },
+  "ReceiptID": 43674,
+  "OrderDate": {
+    "$date": "2011-05-30T23:00:00Z"
+  },
+  "Store": 552,
+  "StoreName": "Requisite Part Supply",
+  "Customer": {
+    "CustomerKey": 29596,
+    "FirstName": "Mathew",
+    "MiddleName": "E",
+    "LastName": "Ramos",
+    "Gender": "M",
+    "Email": "mathew13@adventure-works.com",
+    "AddressLine1": "9783 Amaranth Way",
+    "AddressLine2": "NULL",
+    "Phone": "1 (11) 500 555-0111",
+    "DateFirstPurchase": {
+      "$date": "2013-04-12T00:00:00Z"
+    }
+  },
+  "Products": [
+    {
+      "ID": 758,
+      "Name": "Road-450 Red. 52",
+      "Number": "Road-450 Red. 52",
+      "Color": "Red",
+      "Quantity": 3,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2624.382"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    }
+  ],
+  "Currency": {
+    "_id": {
+      "$oid": "600a42a4e0b28c8698210a18"
+    },
+    "CurrencyRateID": 4,
+    "CurrencyRateDate": {
+      "$date": "2011-05-30T23:00:00Z"
+    },
+    "FromCurrencyCode": "USD",
+    "ToCurrencyCode": "CAD",
+    "RateVal": {
+      "$numberDecimal": "1.4683"
+    }
+  },
+  "TaxAmt": {
+    "$numberDecimal": "251.9407"
+  },
+  "SubTotal": {
+    "$numberDecimal": "2624.382"
+  }
+},{
+  "_id": {
+    "$oid": "600b5272079e06c8640a14ce"
+  },
+  "ReceiptID": 43888,
+  "OrderDate": {
+    "$date": "2011-06-30T23:00:00Z"
+  },
+  "Store": 980,
+  "StoreName": "Wholesale Parts",
+  "Customer": {
+    "CustomerKey": 29794,
+    "FirstName": "Emma",
+    "MiddleName": "NULL",
+    "LastName": "Morgan",
+    "Gender": "F",
+    "Email": "emma30@adventure-works.com",
+    "AddressLine1": "5890 Ardith Drive",
+    "AddressLine2": "NULL",
+    "Phone": "343-555-0150",
+    "DateFirstPurchase": {
+      "$date": "2012-04-23T00:00:00Z"
+    }
+  },
+  "Products": [
+    {
+      "ID": 764,
+      "Name": "Road-650 Red. 52",
+      "Number": "Road-650 Red. 52",
+      "Color": "Red",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "419.4589"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 755,
+      "Name": "Road-450 Red. 60",
+      "Number": "Road-450 Red. 60",
+      "Color": "Red",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "874.794"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 738,
+      "Name": "LL Road Frame - Black. 52",
+      "Number": "LL Road Frame - Black. 52",
+      "Color": "Black",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "178.5808"
+      },
+      "LineTotal": {
+        "$numberDecimal": "357.1616"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": "NULL"
+    },
+    {
+      "ID": 725,
+      "Name": "LL Road Frame - Red. 44",
+      "Number": "LL Road Frame - Red. 44",
+      "Color": "Red",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "183.9382"
+      },
+      "LineTotal": {
+        "$numberDecimal": "183.9382"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 768,
+      "Name": "Road-650 Black. 44",
+      "Number": "Road-650 Black. 44",
+      "Color": "Black",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "419.4589"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 760,
+      "Name": "Road-650 Red. 60",
+      "Number": "Road-650 Red. 60",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "838.9178"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 753,
+      "Name": "Road-150 Red. 56",
+      "Number": "Road-150 Red. 56",
+      "Color": "Red",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "3578.27"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "2146.962"
+      },
+      "LineTotal": {
+        "$numberDecimal": "2146.962"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 756,
+      "Name": "Road-450 Red. 44",
+      "Number": "Road-450 Red. 44",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "1749.588"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 754,
+      "Name": "Road-450 Red. 58",
+      "Number": "Road-450 Red. 58",
+      "Color": "Red",
+      "Quantity": 5,
+      "Price": {
+        "$numberDecimal": "1457.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "874.794"
+      },
+      "LineTotal": {
+        "$numberDecimal": "4373.97"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2012-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 770,
+      "Name": "Road-650 Black. 52",
+      "Number": "Road-650 Black. 52",
+      "Color": "Black",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "838.9178"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 730,
+      "Name": "LL Road Frame - Red. 62",
+      "Number": "LL Road Frame - Red. 62",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "183.9382"
+      },
+      "LineTotal": {
+        "$numberDecimal": "367.8764"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 763,
+      "Name": "Road-650 Red. 48",
+      "Number": "Road-650 Red. 48",
+      "Color": "Red",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "838.9178"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 765,
+      "Name": "Road-650 Black. 58",
+      "Number": "Road-650 Black. 58",
+      "Color": "Black",
+      "Quantity": 2,
+      "Price": {
+        "$numberDecimal": "782.99"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "419.4589"
+      },
+      "LineTotal": {
+        "$numberDecimal": "838.9178"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    },
+    {
+      "ID": 726,
+      "Name": "LL Road Frame - Red. 48",
+      "Number": "LL Road Frame - Red. 48",
+      "Color": "Red",
+      "Quantity": 1,
+      "Price": {
+        "$numberDecimal": "337.22"
+      },
+      "UnitPrice": {
+        "$numberDecimal": "183.9382"
+      },
+      "LineTotal": {
+        "$numberDecimal": "183.9382"
+      },
+      "SellStartDate": {
+        "$date": "2011-05-30T23:00:00Z"
+      },
+      "SellEndDate": {
+        "$date": "2013-05-29T00:00:00Z"
+      }
+    }
+  ],
+  "Currency": {
+    "_id": {
+      "$oid": "600a42a4e0b28c8698210bab"
+    },
+    "CurrencyRateID": 407,
+    "CurrencyRateDate": {
+      "$date": "2011-06-30T23:00:00Z"
+    },
+    "FromCurrencyCode": "USD",
+    "ToCurrencyCode": "CAD",
+    "RateVal": {
+      "$numberDecimal": "1.4773"
+    }
+  },
+  "TaxAmt": {
+    "$numberDecimal": "1388.4649"
+  },
+  "SubTotal": {
+    "$numberDecimal": "14432.8174"
+  }
+}]
